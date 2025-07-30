@@ -7,7 +7,7 @@
 <br>
 <br>
 <br>
-👋 Olá! Eu sou o Gabriel Fehlberg Tenho 22 anos e estou em transição para a área de tecnologia, com o objetivo de atuar como <strong>desenvolvedor Back-End</strong>. Atualmente, estou começando meus estudos pelo <strong>Front-End</strong>, aprendendo <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong> para construir uma base sólida e entender melhor o funcionamento da web como um todo.
+👋 Olá! Eu sou o Gabriel Fehlberg, tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas. Meu maior objetivo é atuar como <strong>desenvolvedor Back-End</strong>. Atualmente, estou expandindo meus conhecimentos através de <strong>cursos</strong> e <strong>projetos pessoais</strong>. Já tenho uma boa base de  <strong>Java</strong>, e agora estou focando em <strong>Python</strong> para construir uma base sólida e me tornar um desenvolvedor melhor.
   
 <br>
 
@@ -17,7 +17,7 @@
 <strong>📖 Conhecimento em:</strong>
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,java" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,java,py" />
   </a>
 </div>
 
