@@ -7,7 +7,7 @@
 <br>
 <br>
 <br>
-👋 Olá! Eu sou o Gabriel Fehlberg, tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas. Meu maior objetivo é atuar como <strong>desenvolvedor Back-End</strong>. Atualmente, estou expandindo meus conhecimentos através de <strong>cursos</strong> e <strong>projetos pessoais</strong>. Já tenho uma boa base de  <strong>Java</strong>, e agora estou focando em <strong>Python</strong> para construir uma base sólida e me tornar um desenvolvedor melhor.
+👋 Olá! Eu sou o Gabriel Fehlberg, tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas. Meu maior objetivo é atuar como <strong>desenvolvedor Back-End</strong>. Atualmente, estou expandindo meus conhecimentos através de <strong>cursos</strong> e <strong>projetos pessoais</strong>. Possuo conhecimento em <strong>Java</strong>, e atualmente estou focando em <strong>Python</strong> para construir uma base sólida e me tornar um desenvolvedor melhor.
   
 <br>
 
