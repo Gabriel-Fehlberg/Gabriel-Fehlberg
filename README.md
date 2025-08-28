@@ -8,7 +8,11 @@
 <br>
 <br>
 👋 Olá! Eu sou o Gabriel Fehlberg, tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas. Meu maior objetivo é atuar como <strong>desenvolvedor Back-End</strong>. Estou expandindo meus conhecimentos através de <strong>cursos</strong> e <strong>projetos pessoais</strong>. Possuo conhecimento em <strong>Java</strong>, e atualmente estou focando em <strong>Python</strong> para construir uma base sólida e me tornar um desenvolvedor melhor.
-  
+
+<p align="center">
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fpokemon%2Fpage%2Fuser%2Fmega-blaziken%2Fgqhx_fGExR4zXjk47K7xbYVproLbY8I3&psig=AOvVaw1MY2Dd--o6D77BanfJHmIR&ust=1756501437147000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODdivOzro8DFQAAAAAdAAAAABAz"
+     width="250px" />
+</p>
 <br>
 
 <br><br>
