@@ -10,8 +10,7 @@
 👋 Olá! Eu sou o Gabriel Fehlberg, tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas. Meu maior objetivo é atuar como <strong>desenvolvedor Back-End</strong>. Estou expandindo meus conhecimentos através de <strong>cursos</strong> e <strong>projetos pessoais</strong>. Possuo conhecimento em <strong>Java</strong>, e atualmente estou focando em <strong>Python</strong> para construir uma base sólida e me tornar um desenvolvedor melhor.
 
 <p align="center">
-   <img src="http://aminoapps.com/p/a3g5pw](https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/257.gif)"
-     width="250px" />
+  <img src="[https://github.com/h0ru/gpk/blob/main/gengar.gif](https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/257.gif)" width="250px" />
 </p>
 <br>
 
