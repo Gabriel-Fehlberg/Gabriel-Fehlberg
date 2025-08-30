@@ -12,9 +12,6 @@
 <p align="center">
   <img src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/384.gif" width="250px" />
 </p>
-<br>
-
-<br>
 
 <p align=left>
 <strong>📖 Conhecimento em:</strong>
